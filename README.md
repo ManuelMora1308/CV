@@ -10,9 +10,9 @@
 Especialista en el desarrollo de programas y mantenimiento de sistemas  con mas de 3 años de experiencia.conocomiento avanzado en distintos lenguajes de programación(PseInt, C++, Html, PHP, SQL, CSS, Javascript, etc....). capacitado para trabajar en todas las etapas del dasarrolo de programas. Con iniciativa propia, responsabilidades y liderazgo. 
 
 # Formación academica:
--Nivel más alto adquirido:Ingieneria Técnica en Informatica de sistemas.
--Lugar: Universidad Veracruzana.
--Finalización de formación:2017
+*Nivel más alto adquirido:Ingieneria Técnica en Informatica de sistemas.
+*Lugar: Universidad Veracruzana.
+*Finalización de formación:2017
 
 ## Cursos realizados:
 * 2010.- Analytics With Hadoop In Azure HDInsight.
